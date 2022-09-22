@@ -1,0 +1,64 @@
+body{
+    background-color:  #FFFFFF ;
+}
+
+
+.section1-heading1{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 8px;
+    color: gray;
+}
+
+
+     .section-2{
+        display: flex;
+     }
+         .header10{
+            display: flex;
+         }
+
+   .header2{
+     padding-left: 30px;
+   }
+
+
+      .img1{
+        height: 47px;
+        width: 147px;
+        padding-left: 250px;
+      }
+      .logo1{
+        padding-left: 480px;
+        justify-content: space-between;
+        margin-bottom: 25px;
+      }
+      .section5{
+        margin: 40px;
+      }
+      .section5-button{
+      padding-bottom: 30px;
+      padding-top: 20px;
+    
+      }
+         .section-5-images{
+          display: flex;
+           margin-left: 30px;
+           justify-content: space-evenly;
+         }
+         .shirt-images{
+          height: 366px;
+          width: 292px;
+         }
+         .button-1{
+          border-radius: 30px;
+        
+         }
+         @media screen and (max-width: 600px) {
+          .col {
+             width: 50%;
+          }
+       }
+       
+         
